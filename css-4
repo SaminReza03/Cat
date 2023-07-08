@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Noto Sans HK';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/notosanshk/v21/nKKQ-GM_FYFRJvXzVXaAPe9RM3p1.otf) format('opentype');
+}
